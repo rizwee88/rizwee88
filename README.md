@@ -1,6 +1,7 @@
 ## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=00F700&lines=Hi+%F0%9F%91%8B+I'am+Rizwan+Hussain;Web+Developer;Programmer+%26+Developer)](https://git.io/typing-svg)
-[GitHub followers](https://img.shields.io/github/followers/rizwan-hussain?style=social)
+[Snake animation](https://github.com/rizwan-hussain/rizwan-hussain/blob/output/snake.svg)
+
 
 <!--
 **rizwee88/rizwee88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
