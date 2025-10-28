@@ -33,9 +33,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rizwee88&icon=3&color=0)](https://visitcount.itsvg.in)
 
-markdown file:
-
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rizwee88/rizwee88/output/github-contribution-grid-snake.gif" alt="snake gif" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
