@@ -31,8 +31,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=rizwee88&icon=3&color=0)](https://visitcount.itsvg.in)
 
-![github contribution grid snake](https://github.com/rizwee88/rizwee88/blob/output/github-contribution-grid-snake.svg)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
 **rizwee88/rizwee88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
